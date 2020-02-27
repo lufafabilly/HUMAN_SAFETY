@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HUMAN_SAFETY</string>
+    <!-- Strings related to login -->
+    <string name="prompt_firstname">Firstname</string>
+    <string name="prompt_lastname">Lastname</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_Register">Sign up</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_display">Display</string>
+    <string name="title_activity_instructions">Instructions</string>
+    <string name="title_activity_verify">Verify</string>
+    <string name="prompt_phonenumber">Phonenumber</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="invalid_phonenumber">Phonenumber must be >13 characters</string>
+    <string name="help">Please follow the below steps to setup your account:\n\n\n\t1:Register Your Phone Number.\n\t2:Register Your Guardian Numbers.\n\t3:Always maintain working internet connection.\n\t4:SHAKE your phone in case of emergency to alert your guardians.\n\t\n\n\n\n\tLETS START NOW!</string>
+
+</resources>
+
+
